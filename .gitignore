@@ -1,0 +1,21 @@
+# Config files with secrets
+*.json
+config.py
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
